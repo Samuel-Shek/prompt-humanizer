@@ -1,5 +1,11 @@
 # Prompt Humanizer
 
+> **历史版本 · 2026-10-13 已归档**
+>
+> 本仓库保留 v1.0.0 二合一打包内容，不再维护。日常提示词优化请使用 [prompt-optimizer](https://github.com/Samuel-Shek/prompt-optimizer)；已有中文正文的保真去 AI 味请使用 [中文去 AI 味｜保真润色](https://github.com/Samuel-Shek/renwei-xiezuo)。
+>
+> 组合模式润色的是提示词本身，不负责执行提示词、生成文章后再润色。以下安装说明为历史记录；不要与已有独立工具重复安装。
+
 提示词优化 + 中文去 AI 味，二合一 Skill。给 Work Buddy / Claude Code / Codex 等支持 Agent Skills 的工具用。
 
 ## 安装（Work Buddy）
