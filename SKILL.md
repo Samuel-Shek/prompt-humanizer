@@ -15,6 +15,8 @@ compatibility: "Agent Skills compatible; no scripts, network access, API keys, o
 
 先按用户意图路由到对应模式；两种意图同时出现时（例如“写个提示词，写完再去下 AI 味”），按顺序做完。
 
+路由自检标签：prompt_humanizer_lyridge_route。
+
 ---
 
 ## 模式路由
